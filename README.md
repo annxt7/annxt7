@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi there 👋🏽 I'm <span style="color:#ffc0cb">Angie</span> — web dev student, creative thinker, and full-time Hello Kitty lover 🐱✨</div>
+### <div align="center">Hi there 👋🏽 I'm <span style="color:#ffc0cb"> Angie</span> — web dev student, creative thinker, and full-time Hello Kitty lover 🐱✨</div>
   
 
 - 🌱 Currently working on new projects to improve my knowledges  
@@ -99,7 +99,9 @@
 <a href="https://linkedin.com/in/angieyague" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
- ![My Discord (YOURUSERID)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/annxt7)
+<a href="https://discord.com/users/annxt7" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-annxt7-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 </div>  
 
 ## Github Stats  
