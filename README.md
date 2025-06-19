@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">Hi there 👋🏽 I'm <span style="color:#ffc0cb"> Angie</span> — web dev student, creative thinker, and full-time Hello Kitty lover 🐱✨</div>
-  
+### <div align="center">Hi there 👋🏽 I'm $${\color{pink} Angie }$$ — web dev student and full-time Hello Kitty lover 🐱✨</div>
+  <div align="center"> Located </div>
 
 - 🌱 Currently working on new projects to improve my knowledges  
   
@@ -17,7 +17,6 @@
 
 - ✨Fun fact: I design like someone who gets lost easily — because I do. Accessibility and clarity are non-negotiable.  
   
-<hr style="border: none; border-top: 2px dashed #ff69b4;" />
 
 ## Goals for 2025 🚀
   
@@ -29,15 +28,13 @@
    
 - 🧪 Use Figma to prototype before building  
 
-<hr style="border: none; border-top: 2px dashed #ff69b4;" />
-
 ## My Skill Set 💾🌷
 <table><tr><td valign="top" width="33%">
 
 
-
-### Frontend  
 <div align="center">  
+### Frontend  
+
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -55,9 +52,9 @@
 </td><td valign="top" width="33%">
 
 
-
-### Backend  
 <div align="center">  
+### Backend  
+
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -67,9 +64,9 @@
 </td><td valign="top" width="33%">
 
 
-
-### DevOps  
 <div align="center">  
+### DevOps  
+
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -79,7 +76,6 @@
 </div>
 
 </td></tr></table>  
-<hr style="border: none; border-top: 2px dashed #ff69b4;" />
 
 ##  When I'm AFK 🎮: 
 <div align="center">
@@ -89,7 +85,7 @@
   ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
   ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 </div>
-<hr style="border: none; border-top: 2px dashed #ff69b4;" />
+
 
 ## Connect with me  💗
 <div align="center">
@@ -100,7 +96,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://discord.com/users/annxt7" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-annxt7-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"alt=discord style="margin-bottom: 5px;"/>
 </a>
 </div>  
 
