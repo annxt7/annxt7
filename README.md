@@ -6,16 +6,16 @@
 ### <div align="center">Hi there 👋🏽 I'm $${\color{lightpink} Angie }$$ — web dev student and full-time Hello Kitty lover 🐱✨</div>
 <div align="center"> <em> Located in Fuerteventura, Spain  🌍 </em> </div> 
 
-- 🌱 Currently working on new projects to improve my knowledges  
+- 🌱 Currently <strong> working on </strong> new projects to improve my knowledges  
   
 
-- 🐍Comfortable with: Python, JavaScript, HTML/CSS, MySQL  
+- 🐍<strong>Comfortable with</strong>:  Python , JavaScript, HTML/CSS, MySQL 
   
 
-- 📚 Interests: AI, web development, backend APIs, and emotional computing  
+- 📚<strong> Interests</strong>: AI, web development, backend APIs, and emotional computing  
   
 
-- ✨Fun fact: I design like someone who gets lost easily — because I do. Accessibility and clarity are non-negotiable.  
+- ✨<strong>Fun fact</strong>: I design like someone who gets lost easily — because I do. Accessibility and clarity are non-negotiable.  
   
 
  ## $${\color{pink} Goals \space \color{pink} for \space \color{pink} 2025 🚀 }$$
