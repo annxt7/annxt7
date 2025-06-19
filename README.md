@@ -18,7 +18,7 @@
 - ✨<strong>Fun fact</strong>: I design like someone who gets lost easily — because I do. Accessibility and clarity are non-negotiable.  
   
 
- ## $${\color{pink} Goals \space \color{pink} for \space \color{pink} 2025 🚀 }$$
+ ## $${\color{pink}Goals \space\color{pink}for \space\color{pink} 2025 🚀 }$$
   
 - Contribute to a meaningful collaborative project
   
@@ -32,8 +32,10 @@
 <table><tr><td valign="top" width="33%">
 
 
-
-### Frontend  
+<div align="center">
+  
+### $${\color{#ffd1dc} Frontend }$$  
+</div>  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -52,8 +54,10 @@
 </td><td valign="top" width="33%">
 
 
-
-### Backend  
+<div align="center">
+  
+### $${\color{#ffd1dc} Backend }$$  
+</div>
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -65,7 +69,10 @@
 
 
 
-### DevOps  
+<div align="center">
+  
+### $${\color{#ffd1dc} DevOps }$$  
+</div>
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
