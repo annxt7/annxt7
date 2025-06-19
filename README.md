@@ -81,24 +81,27 @@
 
 ## $${\color{pink} When \space \color{pink} I'm \space  \color{pink} AFK 🎮: }$$
 <div align="center">
-  
-  ![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
-  ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-  ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
-  ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+
+  ![Goodreads](https://img.shields.io/badge/Goodreads-FBEFF2?style=for-the-badge&logo=goodreads&logoColor=white)
+  ![Netflix](https://img.shields.io/badge/Netflix-FDC5D5?style=for-the-badge&logo=netflix&logoColor=white)
+  ![Twitch](https://img.shields.io/badge/Twitch-E6D6FF?style=for-the-badge&logo=twitch&logoColor=white)
+  ![Switch](https://img.shields.io/badge/Switch-FFD6E8?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 </div>
 
 
 ## $${\color{pink} Connect \space \color{pink} with \space \color{pink} me  }$$💗
 <div align="center">
+
 <a href="https://github.com/annxt7" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-EAD8D8?style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://linkedin.com/in/angieyague" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-D9EAF7?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
 <a href="https://discord.com/users/annxt7" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord-E4D4F4?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
 </a>
 </div>  
 
