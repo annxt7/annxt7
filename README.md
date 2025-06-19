@@ -18,7 +18,7 @@
 - ✨Fun fact: I design like someone who gets lost easily — because I do. Accessibility and clarity are non-negotiable.  
   
 
- ## $${\color{pink} Goals for 2025 🚀 }$$
+ ## $${\color{pink} Goals \space \color{pink} for \space \color{pink} 2025 🚀 }$$
   
 - Contribute to a meaningful collaborative project
   
@@ -28,12 +28,12 @@
    
 - 🧪 Use Figma to prototype before building  
 
-##  $${\color{pink} My Skill Set 💾🌷 }$$
+##  $${\color{pink} My \space \color{pink} Skill \space \color{pink} Set 💾🌷 }$$
 <table><tr><td valign="top" width="33%">
 
-<div align="center">  
+ 
 ### Frontend 
-</div>
+
 <div align="center">  
   
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -53,9 +53,9 @@
 </td><td valign="top" width="33%">
 
 
-<div align="center">  
+
 ### Backend  
-</div>
+
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -65,9 +65,9 @@
 
 </td><td valign="top" width="33%">
 
-<div align="center">  
+
 ### DevOps 
-</div>
+
 <div align="center">  
 
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -80,7 +80,7 @@
 
 </td></tr></table>  
 
-## $${\color{pink} When I'm AFK 🎮: 
+## $${\color{pink} When \space \color{pink} I'm \space  \color{pink} AFK 🎮: }$$
 <div align="center">
   
   ![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
@@ -90,7 +90,7 @@
 </div>
 
 
-## $${\color{pink} Connect with me  💗
+## $${\color{pink} Connect \space \color{pink} with \space \color{pink} me  }$$💗
 <div align="center">
 <a href="https://github.com/annxt7" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -103,7 +103,7 @@
 </a>
 </div>  
 
-## Github Stats  
+## $${\color{pink} Github  \space \color{pink} Stats  }$$
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=annxt7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
