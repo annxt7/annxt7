@@ -18,7 +18,8 @@
 - ✨Fun fact: I design like someone who gets lost easily — because I do. Accessibility and clarity are non-negotiable.  
   
 <hr style="border: none; border-top: 2px dashed #ff69b4;" />
-##  Goals for 2025 🚀
+
+## Goals for 2025 🚀
   
 - Contribute to a meaningful collaborative project
   
@@ -89,6 +90,7 @@
   ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 </div>
 <hr style="border: none; border-top: 2px dashed #ff69b4;" />
+
 ## Connect with me  💗
 <div align="center">
 <a href="https://github.com/annxt7" target="_blank">
@@ -97,7 +99,7 @@
 <a href="https://linkedin.com/in/angieyague" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
- [![My Discord (YOURUSERID)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/annxt7)
+ ![My Discord (YOURUSERID)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/annxt7)
 </div>  
 
 ## Github Stats  
