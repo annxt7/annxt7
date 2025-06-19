@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">Hi there 👋🏽 I'm $${\color{fuscia} Angie }$$ — web dev student and full-time Hello Kitty lover 🐱✨</div>
-  <div align="center"> Located in Fuerteventura, Spain 🌍</div>
+### <div align="center">Hi there 👋🏽 I'm $${\color{lightpink} Angie }$$ — web dev student and full-time Hello Kitty lover 🐱✨</div>
+<div align="center"> <em> Located in Fuerteventura, Spain  🌍 </em> </div> 
 
 - 🌱 Currently working on new projects to improve my knowledges  
   
@@ -111,20 +111,22 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=annxt7&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=annxt7&style=flat-square&color=f4c2c2" align="center" />
 </div>  
-  
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/annxt7" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+  <a href="https://www.buymeacoffee.com/annxt7" target="_blank" style="display: inline-block;">
+    <img
+      src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23f4c2c2.svg?style=flat-square&logo=buymeacoffee&logoColor=white" 
+      align="center"
+    />
+  </a>
+</div>
+
 <br />
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
