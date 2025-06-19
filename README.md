@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">Hi there 👋🏽 I'm $${\color{pink} Angie }$$ — web dev student and full-time Hello Kitty lover 🐱✨</div>
-  <div align="center"> Located </div>
+### <div align="center">Hi there 👋🏽 I'm $${\color{fuscia} Angie }$$ — web dev student and full-time Hello Kitty lover 🐱✨</div>
+  <div align="center"> Located in Fuerteventura, Spain 🌍</div>
 
 - 🌱 Currently working on new projects to improve my knowledges  
   
