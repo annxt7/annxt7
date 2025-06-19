@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey 👋🏽! I'm Angie, a web development student and a full-time hello kitty lover 👨‍💻  🐱</div>  
+### <div align="center">Hi there 👋🏽 I'm <span style="color:#ffc0cb">Angie</span> — web dev student, creative thinker, and full-time Hello Kitty lover 🐱✨</div>
   
 
 - 🌱 Currently working on new projects to improve my knowledges  
@@ -17,26 +17,20 @@
 
 - ✨Fun fact: I design like someone who gets lost easily — because I do. Accessibility and clarity are non-negotiable.  
   
-
-## 🚀 Goals for 2025  
+<hr style="border: none; border-top: 2px dashed #ff69b4;" />
+##  Goals for 2025 🚀
   
-
-- Contribute to a meaningful collaborative project  
+- Contribute to a meaningful collaborative project
   
-
-- Learn more about system design and API architecture  
+- 🧠 Learn more about system design and API architecture
   
+- 🎨 Complete a UX/UI course and apply it in real projects
+   
+- 🧪 Use Figma to prototype before building  
 
-- Follow at least one full online course on UX/UI principles and apply it in real projects  
-  
+<hr style="border: none; border-top: 2px dashed #ff69b4;" />
 
-- Start using Figma  to prototype before building  
-  
-
-<br/>  
-
-
-## My Skill Set  
+## My Skill Set 💾🌷
 <table><tr><td valign="top" width="33%">
 
 
@@ -84,11 +78,18 @@
 </div>
 
 </td></tr></table>  
+<hr style="border: none; border-top: 2px dashed #ff69b4;" />
 
-<br/>  
-
-
-## Connect with me  
+##  When I'm AFK 🎮: 
+<div align="center">
+  
+  ![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
+  ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+  ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
+  ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+</div>
+<hr style="border: none; border-top: 2px dashed #ff69b4;" />
+## Connect with me  💗
 <div align="center">
 <a href="https://github.com/annxt7" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -96,19 +97,8 @@
 <a href="https://linkedin.com/in/angieyague" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+ [![My Discord (YOURUSERID)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/annxt7)
 </div>  
-  
-
-## 🎮 When I'm AFK:  
-<div align="center">
-  
-  ![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
-  ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
-  ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-  ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-</div>
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=annxt7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
